@@ -17,31 +17,31 @@ This repository contains additional files (alignments, write ups) regarding the 
 #### Clostridia CGG Arg&#8594;Gln reassignment 
 - `Clostridia_CGG_Gln_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
 - `Clostridia_CGG_Gln_tRNA_alignment.sto`: Stockholm alignment of Arg and Gln tRNAs from reassigned clade and outgroups
-- `Clostridia_CGG_Gln_POG091H022D_alignment.sto`: Full Stockholm alignment of BUSCO POG091H022D
-- `Clostridia_CGG_Gln_POG091H01H6_alignment.sto`: Full Stockholm alignment of BUSCO POG091H01H6
-- `Clostridia_CGG_Gln_POG091H0124_alignment.sto`: Full Stockholm alignment of BUSCO POG091H0124
-- `Clostridia_CGG_Gln_POG091H00IF_alignment.sto`: Full Stockholm alignment of BUSCO POG091H00IF
+- `Clostridia_CGG_Gln_POG091H022D_alignment.sto`: Stockholm alignment of BUSCO POG091H022D
+- `Clostridia_CGG_Gln_POG091H01H6_alignment.sto`: Stockholm alignment of BUSCO POG091H01H6
+- `Clostridia_CGG_Gln_POG091H0124_alignment.sto`: Stockholm alignment of BUSCO POG091H0124
+- `Clostridia_CGG_Gln_POG091H00IF_alignment.sto`: Stockholm alignment of BUSCO POG091H00IF
 
 
 #### Bacilli CGG Arg&#8594;Trp reassignment 
 - `Bacilli_CGG_Trp_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
 - `Bacilli_CGG_Trp_tRNA_alignment.sto`: Stockholm alignment of Arg and Trp tRNAs from reassigned clade and outgroups
-- `Bacilli_CGG_Trp_POG091H02IX_alignment.sto`: Full Stockholm alignment of BUSCO POG091H02IX
-- `Bacilli_CGG_Trp_POG091H024G_alignment.sto`: Full Stockholm alignment of BUSCO POG091H024G
-- `Bacilli_CGG_Trp_POG091H01RS_alignment.sto`: Full Stockholm alignment of BUSCO POG091H01RS
-- `Bacilli_CGG_Trp_POG091H01PM_alignment.sto`: Full Stockholm alignment of BUSCO POG091H01PM
-- `Bacilli_CGG_Trp_POG091H01G9_alignment.sto`: Full Stockholm alignment of BUSCO POG091H01G9
+- `Bacilli_CGG_Trp_POG091H02IX_alignment.sto`: Stockholm alignment of BUSCO POG091H02IX
+- `Bacilli_CGG_Trp_POG091H024G_alignment.sto`: Stockholm alignment of BUSCO POG091H024G
+- `Bacilli_CGG_Trp_POG091H01RS_alignment.sto`: Stockholm alignment of BUSCO POG091H01RS
+- `Bacilli_CGG_Trp_POG091H01PM_alignment.sto`: Stockholm alignment of BUSCO POG091H01PM
+- `Bacilli_CGG_Trp_POG091H01G9_alignment.sto`: Stockholm alignment of BUSCO POG091H01G9
 
 #### _Anaerococcus_ CGG Arg&#8594;Trp reassignment 
 - `Anaerococcus_CGG_Trp_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
 - 
 - `Anaerococcus_CGG_Trp_tRNA_alignment.sto`: Stockholm alignment of Arg and Trp tRNAs from reassigned clade and outgroups
-- `Anaerococcus_CGG_Trp_POG091H024G_alignment.sto`: Full Stockholm alignment of BUSCO POG091H024G
+- `Anaerococcus_CGG_Trp_POG091H024G_alignment.sto`: Stockholm alignment of BUSCO POG091H024G
 
 #### Absconditabacteria CGA & CGG Arg&#8594;Trp reassignment 
 - `Absconditabacteria_CGA_CGG_Trp_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
 - `Absconditabacteria_CGA_CGG_Trp_tRNA_alignment.sto`: Stockholm alignment of Arg and Trp tRNAs from reassigned clade and outgroups
-- `Absconditabacteria_CGA_CGG_Trp_POG091H02K5_alignment.sto`: Full Stockholm alignment of BUSCO POG091H02K5
-- `Absconditabacteria_CGA_CGG_Trp_POG091H01WE_alignment.sto`: Full Stockholm alignment of BUSCO POG091H01WE
-- `Absconditabacteria_CGA_CGG_Trp_POG091H0131_alignment.sto`: Full Stockholm alignment of BUSCO POG091H0131
-- `Absconditabacteria_CGA_CGG_Trp_POG091H00BZ_alignment.sto`: Full Stockholm alignment of BUSCO POG091H00BZ
+- `Absconditabacteria_CGA_CGG_Trp_POG091H02K5_alignment.sto`: Stockholm alignment of BUSCO POG091H02K5
+- `Absconditabacteria_CGA_CGG_Trp_POG091H01WE_alignment.sto`: Stockholm alignment of BUSCO POG091H01WE
+- `Absconditabacteria_CGA_CGG_Trp_POG091H0131_alignment.sto`: Stockholm alignment of BUSCO POG091H0131
+- `Absconditabacteria_CGA_CGG_Trp_POG091H00BZ_alignment.sto`: Stockholm alignment of BUSCO POG091H00BZ
