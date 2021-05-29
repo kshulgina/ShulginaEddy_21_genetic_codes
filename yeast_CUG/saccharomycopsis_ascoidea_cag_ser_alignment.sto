@@ -1,0 +1,28 @@
+# STOCKHOLM 1.0
+#=GF AU Kate Shulgina
+#=GF DE CAG-Ser tRNA genes from Ascoidea and Saccharomycopsis genomes
+#=GF CC Intron sequence is designated in lowercase. It is not aligned in any way, just pushed to the right.
+#=GS A_asiatica_Ser1 DE accession GCA_001600695.1 on contig BCKQ01000004.1
+#=GS A_asiatica_Ser2 DE accession GCA_001600695.1 on contig BCKQ01000011.1
+#=GS A_rubescens_Ser DE accession GCA_001661345.1 on contig KV454493.1
+#=GS S_capsularis_Ser DE accession GCA_003705375.1 on contig PPIG01000061.1
+#=GS S_crataegens_Ser DE accession GCA_010994405.1 on contig JNFX01000014.1
+#=GS S_fermentans_Ser DE accession GCA_002564245.1 on contig JNFW01000006.1
+#=GS S_fibuligera_Ser DE accession GCA_001936275.1 on contig CP015980.1, exactly the same sequence for two genes in S. fibuligera x S. cf. fibuligera (GCA_001936135.1)  on contigs CP012811.1 and CP012818.1
+#=GS S_malanga_Ser DE accession GCA_004014935.1 on contig CP025322.1
+#=GS S_schoenii_Ser DE accession GCA_010994365.1 on contig JNFU01000001.1
+#=GS S_sp_UWOPS_Ser DE accession GCA_002895615.1 on contig JNNM01000004.1
+
+# Intron                                                   ##################################################
+A_asiatica_Ser1  GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA-ttaaaattgttgtcagatttaaaaaactgactcgacaataaatcttgaaAGGCGTTAGGTTTATCCTTCGCAGGTTCGAATCCTGTCTGTGTCG
+A_asiatica_Ser2  GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGAtcttgccggtttgtttctaattcatgytyagaaacattctgaatcttgttAGGCGTTAGGTTTATCCTTCGCAGGTTCGAATCCTGTCTGTATCG
+A_rubescens_Ser  GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA---------------aaagaggaagtgcacacgtgcacaccctacttgctAGGCGTTAGGTTTACCCTTCGCAGGTTCGAATCCTGTCTGTATCG
+S_capsularis_Ser GATACAGTGGCCGAGTTTGGT...TAAGGCGCCGCCCACAGA---------------------------------actctcgatagtttgttAGGCGCTGGGATTT.CCCTCGCAGGTTCGAATCCTGTCTGTATCG
+S_crataegens_Ser GATGCTGTGACCGAGT..GGT...TAAGGTGTCGCCCACAGA--------------------------tcggaagtcatctgacttcatgtgAGGCGCTGGGATTT.CCCGCGTAGGTTCGAACCCTGCCAGCATCG
+S_fermentans_Ser GAAGTAGTGGCCGAGT..GGT...TAAGGCGACGTCATCAGG--------------------------------------------------CGGCGTTGGCATTT.GCCTCGCAGGTTCGAACCCTGTCTACTTCG
+S_fibuligera_Ser GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA-----------------------------------acttccatgtctgttAGGCGCTGGCATTT.GCTTCGCAGGTTCGAATCCTGTCTGTATCG
+S_fodiens_Ser    GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA------------------------------------tccccaagtttgtgAGGCGCTGACATTT.GTCTCGCAGGTTCGAATCCTGTCTGTATCG
+S_malanga_Ser    GATACAGTGGCCGAGTTTGGT...TAAGGCGCCGCCCACAGA-----------------------------------acttttaggtttgttAGGCGCTGGGATTT.CCCTCGCAGGTTCGAATCCTGTCTGTATCG
+S_schoenii_Ser   GAAGTAGTGGCCGAGT..GGT...TAAGGCGACGTCATCAGG--------------------------------------------------CGGCGTTGGCATTT.GCCGCGCAGGTTCGAACCCTGTCTACTTCG
+S_sp_UWOPS_Ser   GGCTTAGTGACCGAGT..GGTTTTTAAGGTGGTGTCATCAGA--------------------------------------------------GGGCATTGGGCTCCGCCCGCGCAGGTTCGAATCCTGTCTAAGTCG
+#=GC SS_cons     (((((((..<<<...............>>>.<<<<<......--------------------------------------------------.>>>>>.<<<.....>>>..<<<<<.......>>>>>))))))):

@@ -1,0 +1,23 @@
+# STOCKHOLM 1.0
+#=GF AU Kate Shulgina
+#=GF DE CAG-Leu tRNA genes from Ascoidea and Saccharomycopsis genomes.
+#=GF CC Intron sequence is designated in lowercase. It is not aligned in any way, just pushed to the right.
+#=GS A_asiatica_Leu DE accession GCA_001600695.1 on contig BCKQ01000005.1
+#=GS S_crataegens_Leu DE accession GCA_010994405.1 on contig JNFX01000003.1
+#=GS S_fermentans_Leu DE accession GCA_002564245.1 on contig JNFW01000004.1
+#=GS S_fibuligera_Leu DE accession GCA_001936275.1 on contig CP015978.1, exactly the same sequence for two genes in S. fibuligera x S. cf. fibuligera (GCA_001936135.1) on contigs CP012809.1 and CP012816.1
+#=GS S_fodiens_Leu DE accession GCA_002564235.1 on contig JNFV01000001.1
+#=GS S_malanga_Leu DE accession GCA_004014935.1 on contig CP025321.1
+#=GS S_schoenii_Leu DE accession GCA_010994365.1 on contig JNFU01000008.1
+#=GS S_sp_UWOPS_Leu DE accession GCA_002895615.1 on contig JNNM01000008.1
+
+# Intron                                                 #################################################################################
+A_asiatica_Leu   GATACTGTGGCCGAGT...GGTTAAGGCGCCCGCTTCAGG-------------------ataattccaataaatatttaagctgataaacagaagcaagagtatagagagtatattaaattTGCGGGTCTCTTCG.......GAG.GCGCGAGTTCGAACCTCGCTGGTATCA
+S_crataegens_Leu GCTGTTGTGGCCGAGC...GGTAAAGGCGGATGAGTCAGG-----------------------------------------------------------------------atatttacccATCATCTCCAGCGTAGAATGCTGG.TCGCGTGTTCGACTCACGCCGGCAGCA
+S_fermentans_Leu GCTACTGTGGCCCAGCTT.GGTTACGGCGCTTACTTCAGGattagttcaccggtctatgtatgtatgtggaaagtcaattgactccctgcattcaactttccaccggtcgatacatgagaaCGTAAGTTTTTCTAAA....GAAATTCGGCGGTTCAAATCCGCCCGGTAGCA
+S_fibuligera_Leu GTTGGTATGGCGGAGT...GGTGAACGCGCCTGCTTCAGG----------------------------------ttaaagctgcttatacaccttcacttcagggtgaggcagcgtgatctCGCAGGTCTCTTAGA......GGG.GCATGAGTTCGAATCTCATTACCAACA
+S_fodiens_Leu    GTTGGTATGGCGGAGT...GGTTAACGCGCCTGCTTCAGG---------------------gcgtttctgatgggacttccggtcgacaaaccgggggttccgaggatgaacttccgggcaCGCAGGTCCTTTAGA.....GGGG.GCATGAGTTCGAATCTCATTACCAACA
+S_malanga_Leu    GTTGGCATGGCGGAATTGTGGAATACGCGTCTGTTTCAGG------------------------------------------------gcctaaggttggtttctaccaatcaaaaggactAGCAGGTCTCCTAG.......GAG.GTATGAGTTCGAGTCTCATTGTCAACA
+S_schoenii_Leu   GCTACTGTGGCCCAGCTT.GGTTACGGCGCTTACTTCAGG----------attgatgcaccggcccatagatggttgatcaggaacgactgtaatcgactcatcaccggtatacatgagaaCGTAAGTTTTTCTAAA....GAAATTCGGCGGTTCAAATCCGCCCGGTAGCA
+S_sp_UWOPS_Leu   GGTACTGTGTCCGAGT...GGTGAAGGAGGTGGTCCCAGG------------------------------atccggtgcatcaaaccttgcaaagttctggtcacgcaggagggggaaccaTACTGCCAA.AAACAG......TT..CACGAGTTCGAATCTCGTCGGTACCA
+#=GC SS_cons     (((((((..<<<.............>>>.<<<<<......---------------------------------------------------------------------------------.>>>>>.<<<...........>>>...<<<<<.......>>>>>))))))):
