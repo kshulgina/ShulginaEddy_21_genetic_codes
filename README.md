@@ -13,6 +13,7 @@ This repository contains additional files (alignments, write ups) regarding the 
 - `Bacilli_AGG_Met_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
 - `Bacilli_AGG_Met_tRNA_alignment.sto`: Stockholm alignment of Arg and Met tRNAs from reassigned clade and outgroups
 - `Bacilli_AGG_Met_uridylate_kinase_alignment.sto`: Stockholm alignment of uridylate kinase sequences
+- `Bacilli_AGG_tRNA_syntenic_regions.pdf`: visualization of genomic context surrounding the tRNA<sub>CAG</sub> in reassigned and outgroup genomes 
 
 #### Clostridia CGG Arg&#8594;Gln reassignment 
 - `Clostridia_CGG_Gln_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
