@@ -20,14 +20,14 @@ The supplemental files directly associated with the paper can be found in `paper
 - `Bacilli_AGG_Met_uridylate_kinase_alignment.sto`: Stockholm alignment of uridylate kinase sequences
 - `Bacilli_AGG_tRNA_syntenic_regions.pdf`: visualization of genomic context surrounding the tRNA<sub>CAG</sub> in reassigned and outgroup genomes 
 
-#### `Clostridia_CGG_Gln`: Clostridia CGG Arg&#8594;Gln reassignment 
-- `Clostridia_CGG_Gln_analysis.pdf`: A detailed write-up about the Clostridia CGG Arg&#8594;Gln reassignment
-- `Clostridia_CGG_Gln_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
-- `Clostridia_CGG_Gln_tRNA_alignment.sto`: Stockholm alignment of Arg and Gln tRNAs from reassigned clade and outgroups
-- `Clostridia_CGG_Gln_POG091H022D_alignment.sto`: Stockholm alignment of BUSCO POG091H022D
-- `Clostridia_CGG_Gln_POG091H01H6_alignment.sto`: Stockholm alignment of BUSCO POG091H01H6
-- `Clostridia_CGG_Gln_POG091H0124_alignment.sto`: Stockholm alignment of BUSCO POG091H0124
-- `Clostridia_CGG_Gln_POG091H00IF_alignment.sto`: Stockholm alignment of BUSCO POG091H00IF
+#### `Peptacetobacter_CGG_Gln`: _Peptacetobacter_ CGG Arg&#8594;Gln reassignment 
+- `Peptacetobacter_CGG_Gln_analysis.pdf`: A detailed write-up about the _Peptacetobacter_ CGG Arg&#8594;Gln reassignment
+- `Peptacetobacter_CGG_Gln_genomes_info.xlsx`: Excel spreadsheet of info on reassigned and close outgroup genomes
+- `Peptacetobacter_CGG_Gln_tRNA_alignment.sto`: Stockholm alignment of Arg and Gln tRNAs from reassigned clade and outgroups
+- `Peptacetobacter_CGG_Gln_POG091H022D_alignment.sto`: Stockholm alignment of BUSCO POG091H022D
+- `Peptacetobacter_CGG_Gln_POG091H01H6_alignment.sto`: Stockholm alignment of BUSCO POG091H01H6
+- `Peptacetobacter_CGG_Gln_POG091H0124_alignment.sto`: Stockholm alignment of BUSCO POG091H0124
+- `Peptacetobacter_CGG_Gln_POG091H00IF_alignment.sto`: Stockholm alignment of BUSCO POG091H00IF
 
 
 #### `Bacilli_CGG_Trp`: Bacilli CGG Arg&#8594;Trp reassignment  
