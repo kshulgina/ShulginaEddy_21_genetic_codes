@@ -4,7 +4,7 @@ This repository contains additional information regarding the results in Shulgin
 
 - For the ambiguous translation of CUG in _Saccharomycopsis_ and _Ascoidea_, alignments of tRNA<sub>CAG</sub> sequences
 - For all five bacterial clades using new codon reassignments, alignments of relevant tRNAs and alignments of BUSCO genes containing the reassigned codon at conserved positions
-- For the four new CGA/CGG reassignments, an in-depth analysis of each clade. This includes a write-up summarizing the evidence supporting each reassignment, containing some results such as tRNA phylogenetic trees that were not included in the paper.
+- For the four new CGA/CGG reassignments, an in-depth analysis of each clade. This includes a write-up summarizing the evidence supporting each reassignment, containing some results such as tRNA phylogenetic trees that were not included in the paper. These analyses may include additional outgroup species not featured in the paper; however, the species numberings that are shared should be consistent. 
 
 The supplemental files directly associated with the paper can be found in `paper_supplemental_files`.
 
