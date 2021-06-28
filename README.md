@@ -57,7 +57,6 @@ The supplemental files directly associated with the paper can be found in `paper
 
 #### `paper_supplemental_files`: Supplemental files from Shulginna & Eddy (2021)
 - `Fig2_SourceData_yeast_phylogenetic_groupings.xls`: Table of all analyzed yeast genomes with phylogenetic grouping and Codetta CUG inference
-- `Fig2_SourceData_original_blot_files.tar.gz`: Tarball of original Northern blot images 
 - `SupplFile1_summary_inference_all_assemblies.csv`: From a screen of >250,000 bacterial and archaeal genomes, a list of all analyzed genome assemblies with the inferred genetic code, inclusion in dereplicated dataset, and number of expected, unexpected, and uninferred codon inferences.
 - `SupplFile2_summary_spreadsheet_all_candidate_novel_codes.xls`: List of all candidate new codon reassignments, with additional information.
 - `Fig3_SourceData_Bacilli_AGG_Met_genomes_info.xlsx`: For the AGG$\rightarrow$Met reassignment, a table of genome accessions, Codetta AGG inference, tRNA gene presence, codon usage, and genome GC content for reassigned and outgroup genomes.
