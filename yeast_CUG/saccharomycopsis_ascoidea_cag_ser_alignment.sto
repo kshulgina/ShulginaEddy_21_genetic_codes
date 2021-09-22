@@ -9,6 +9,8 @@
 #=GS S_crataegens_Ser DE accession GCA_010994405.1 on contig JNFX01000014.1
 #=GS S_fermentans_Ser DE accession GCA_002564245.1 on contig JNFW01000006.1
 #=GS S_fibuligera_Ser DE accession GCA_001936275.1 on contig CP015980.1, exactly the same sequence for two genes in S. fibuligera x S. cf. fibuligera (GCA_001936135.1)  on contigs CP012811.1 and CP012818.1
+#=GS S_fodiens_Ser1 DE accession GCA_002564235.1 on contig JNFV01000004.1
+#=GS S_fodiens_Ser1 DE accession GCA_002564235.1 on contig JNFV01000006.1
 #=GS S_malanga_Ser DE accession GCA_004014935.1 on contig CP025322.1
 #=GS S_schoenii_Ser DE accession GCA_010994365.1 on contig JNFU01000001.1
 #=GS S_sp_UWOPS_Ser DE accession GCA_002895615.1 on contig JNNM01000004.1
@@ -21,7 +23,8 @@ S_capsularis_Ser GATACAGTGGCCGAGTTTGGT...TAAGGCGCCGCCCACAGA---------------------
 S_crataegens_Ser GATGCTGTGACCGAGT..GGT...TAAGGTGTCGCCCACAGA--------------------------tcggaagtcatctgacttcatgtgAGGCGCTGGGATTT.CCCGCGTAGGTTCGAACCCTGCCAGCATCG
 S_fermentans_Ser GAAGTAGTGGCCGAGT..GGT...TAAGGCGACGTCATCAGG--------------------------------------------------CGGCGTTGGCATTT.GCCTCGCAGGTTCGAACCCTGTCTACTTCG
 S_fibuligera_Ser GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA-----------------------------------acttccatgtctgttAGGCGCTGGCATTT.GCTTCGCAGGTTCGAATCCTGTCTGTATCG
-S_fodiens_Ser    GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA------------------------------------tccccaagtttgtgAGGCGCTGACATTT.GTCTCGCAGGTTCGAATCCTGTCTGTATCG
+S_fodiens_Ser1   GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCCACAGA------------------------------------tccccaagtttgtgAGGCGCTGACATTT.GTCTCGCAGGTTCGAATCCTGTCTGTATCG
+S_fodiens_Ser2   GATACAGTGGCCGAGT..GGT...TAAGGCGCCGCCTGCAGG----------------------------------tttaccaaaacgcgtaTGGCGCTGACATTT.GTCTCGCAGGTTCGAATCCTGTCTGTGTCG
 S_malanga_Ser    GATACAGTGGCCGAGTTTGGT...TAAGGCGCCGCCCACAGA-----------------------------------acttttaggtttgttAGGCGCTGGGATTT.CCCTCGCAGGTTCGAATCCTGTCTGTATCG
 S_schoenii_Ser   GAAGTAGTGGCCGAGT..GGT...TAAGGCGACGTCATCAGG--------------------------------------------------CGGCGTTGGCATTT.GCCGCGCAGGTTCGAACCCTGTCTACTTCG
 S_sp_UWOPS_Ser   GGCTTAGTGACCGAGT..GGTTTTTAAGGTGGTGTCATCAGA--------------------------------------------------GGGCATTGGGCTCCGCCCGCGCAGGTTCGAATCCTGTCTAAGTCG

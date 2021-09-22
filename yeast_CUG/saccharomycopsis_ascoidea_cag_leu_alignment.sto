@@ -3,6 +3,7 @@
 #=GF DE CAG-Leu tRNA genes from Ascoidea and Saccharomycopsis genomes.
 #=GF CC Intron sequence is designated in lowercase. It is not aligned in any way, just pushed to the right.
 #=GS A_asiatica_Leu DE accession GCA_001600695.1 on contig BCKQ01000005.1
+#=GS S_capsularis_Leu DE accession GCA_003705375.1 on contig PPIG01000001.1
 #=GS S_crataegens_Leu DE accession GCA_010994405.1 on contig JNFX01000003.1
 #=GS S_fermentans_Leu DE accession GCA_002564245.1 on contig JNFW01000004.1
 #=GS S_fibuligera_Leu DE accession GCA_001936275.1 on contig CP015978.1, exactly the same sequence for two genes in S. fibuligera x S. cf. fibuligera (GCA_001936135.1) on contigs CP012809.1 and CP012816.1
@@ -13,6 +14,7 @@
 
 # Intron                                                 #################################################################################
 A_asiatica_Leu   GATACTGTGGCCGAGT...GGTTAAGGCGCCCGCTTCAGG-------------------ataattccaataaatatttaagctgataaacagaagcaagagtatagagagtatattaaattTGCGGGTCTCTTCG.......GAG.GCGCGAGTTCGAACCTCGCTGGTATCA
+S_capsularis_Leu GTTGGCATGGCGGAAATATGGAATACGCGTCTGCTTCAGG----------------------------------------------------------------------tctacaggacaAGCAGATCTCCCCAG......GAG.ATATGAGTTCGAGTCTCATTGTCAACA
 S_crataegens_Leu GCTGTTGTGGCCGAGC...GGTAAAGGCGGATGAGTCAGG-----------------------------------------------------------------------atatttacccATCATCTCCAGCGTAGAATGCTGG.TCGCGTGTTCGACTCACGCCGGCAGCA
 S_fermentans_Leu GCTACTGTGGCCCAGCTT.GGTTACGGCGCTTACTTCAGGattagttcaccggtctatgtatgtatgtggaaagtcaattgactccctgcattcaactttccaccggtcgatacatgagaaCGTAAGTTTTTCTAAA....GAAATTCGGCGGTTCAAATCCGCCCGGTAGCA
 S_fibuligera_Leu GTTGGTATGGCGGAGT...GGTGAACGCGCCTGCTTCAGG----------------------------------ttaaagctgcttatacaccttcacttcagggtgaggcagcgtgatctCGCAGGTCTCTTAGA......GGG.GCATGAGTTCGAATCTCATTACCAACA
