@@ -55,10 +55,10 @@ The supplemental files directly associated with the paper can be found in `paper
 - `Absconditabacteria_CGA_CGG_Trp_POG091H0131_alignment.sto`: Stockholm alignment of BUSCO POG091H0131
 - `Absconditabacteria_CGA_CGG_Trp_POG091H00BZ_alignment.sto`: Stockholm alignment of BUSCO POG091H00BZ
 
-#### `paper_supplemental_files`: Supplemental files from Shulginna & Eddy (2021)
+#### `paper_supplemental_files`: Supplemental files from Shulgina & Eddy (2021)
 - `SupplFile1_summary_inference_all_assemblies.csv`: From a screen of >250,000 bacterial and archaeal genomes, a list of all analyzed genome assemblies with the inferred genetic code, inclusion in dereplicated dataset, and number of expected, unexpected, and uninferred codon inferences.
 - `SupplFile2_summary_spreadsheet_all_candidate_novel_codes.xls`: List of all candidate new codon reassignments, with additional information.
-- `Fig2_SourceData_yeast_phylogenetic_groupings.xls`: Table of all analyzed yeast genomes with phylogenetic grouping and Codetta CUG inference
+- `Fig2_SourceData_yeast_phylogenetic_groupings.xls`: Table of all analyzed yeast genomes with phylogenetic grouping and Codetta CUG inference.
 - `Fig2_SourceData_IVT_templates.xlsx`: Table of _in vitro_ transcription DNA template sequences.
 - `Fig3_SourceData_Bacilli_AGG_Met_genomes_info.xlsx`: For the AGG$\rightarrow$Met reassignment, a table of genome accessions, Codetta AGG inference, tRNA gene presence, codon usage, and genome GC content for reassigned and outgroup genomes.
 - `Fig4_SourceData_CGA_CGG_reassignments_genome_info.xlsx`: For each of the CGA/CGG reassignments, a table of genome accessions, Codetta CGA/CGG inference, tRNA gene presence, codon usage, and genome GC content for the reassigned clade and outgroup species. Includes fewer outgroup species than equivalent file in each above directories about each reassignment.
