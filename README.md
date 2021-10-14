@@ -19,6 +19,7 @@ The supplemental files directly associated with the paper can be found in `paper
 - `Bacilli_AGG_Met_tRNA_alignment.sto`: Stockholm alignment of Arg and Met tRNAs from reassigned clade and outgroups
 - `Bacilli_AGG_Met_uridylate_kinase_alignment.sto`: Stockholm alignment of uridylate kinase sequences
 - `Bacilli_AGG_tRNA_syntenic_regions.pdf`: visualization of genomic context surrounding the tRNA<sub>CAG</sub> in reassigned and outgroup genomes 
+- `Bacilli_AGG_MetRS_alignment.sto`: Stockholm alignment of MetRS sequences from reassigned clade, outgroup, and _Aquifex_
 
 #### `Peptacetobacter_CGG_Gln`: _Peptacetobacter_ CGG Arg&#8594;Gln reassignment 
 - `Peptacetobacter_CGG_Gln_analysis.pdf`: A detailed write-up about the _Peptacetobacter_ CGG Arg&#8594;Gln reassignment
