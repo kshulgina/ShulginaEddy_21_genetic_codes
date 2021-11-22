@@ -1,6 +1,6 @@
 ## What's in here?
 
-This repository contains additional information regarding the results in Shulgina & Eddy (2021). This includes:
+This repository contains additional information regarding the results in [Shulgina & Eddy (2021)](https://elifesciences.org/articles/71402). This includes:
 
 - For the ambiguous translation of CUG in _Saccharomycopsis_ and _Ascoidea_, alignments of tRNA<sub>CAG</sub> sequences
 - For all five bacterial clades using new codon reassignments, alignments of relevant tRNAs and alignments of BUSCO genes containing the reassigned codon at conserved positions
